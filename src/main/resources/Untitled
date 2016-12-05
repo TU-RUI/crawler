@@ -1,3 +1,0 @@
-跟进obd-core包,理解一个gps包从传输到解析处理到redis中相应操作过程,向gps包中添加pdop字段并进行整个后续流程处理,并进行测试
-熟悉了解redis和mongodb中各个数据库中存储的数据
-学习mongo,redis,morphia,编写测试环境中mongo和redis数据库中数据综合分析案例
